@@ -1,0 +1,15 @@
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.AssemblyInfoInputs.cache
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.AssemblyInfo.cs
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.csproj.CoreCompileInputs.cache
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\bin\Debug\net8.0\Uncle's Pay.exe
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\bin\Debug\net8.0\Uncle's Pay.deps.json
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\bin\Debug\net8.0\Uncle's Pay.runtimeconfig.json
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\bin\Debug\net8.0\Uncle's Pay.dll
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\bin\Debug\net8.0\Uncle's Pay.pdb
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.dll
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\refint\Uncle's Pay.dll
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.pdb
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.genruntimeconfig.cache
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\ref\Uncle's Pay.dll
+C:\Users\AINEMBABAZI J\source\repos\Uncle's Pay\Uncle's Pay\obj\Debug\net8.0\Uncle's Pay.sourcelink.json

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uncle's Pay/1.0.0": {
+        "runtime": {
+          "Uncle's Pay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uncle's Pay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
